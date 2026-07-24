@@ -1,2 +1,3 @@
 # sistemalaser-social-imagens
-Repositório de imagens para publicação em redes sociais
+
+Repositório para servir imagens para redes sociais, como o Instagram.
